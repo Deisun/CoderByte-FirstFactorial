@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/CoderByte1 - FirstFactorial.iml" filepath="$PROJECT_DIR$/.idea/CoderByte1 - FirstFactorial.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../CoderByte-FirstFactorial/.idea/CoderByte-FirstFactorial.iml" filepath="$PROJECT_DIR$/../CoderByte-FirstFactorial/.idea/CoderByte-FirstFactorial.iml" />
     </modules>
   </component>
 </project>
