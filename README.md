@@ -12,6 +12,16 @@ Output:40320
 
 ## Testing
 ```
+	tests := []testpair{
+		{0,1},
+		{1,1},
+		{2,2},
+		{3,6},
+		{4,24},
+		{15,1307674368000},
+	}
+
+
 === RUN   TestFirstFactorial
 --- PASS: TestFirstFactorial (0.00s)
 PASS
