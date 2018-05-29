@@ -9,3 +9,8 @@ Output:24
 
 Input:8
 Output:40320
+
+## Testing
+=== RUN   TestFirstFactorial
+--- PASS: TestFirstFactorial (0.00s)
+PASS
