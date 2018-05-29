@@ -11,6 +11,8 @@ Input:8
 Output:40320
 
 ## Testing
-'=== RUN   TestFirstFactorial
+```
+=== RUN   TestFirstFactorial
 --- PASS: TestFirstFactorial (0.00s)
-PASS'
+PASS
+```
